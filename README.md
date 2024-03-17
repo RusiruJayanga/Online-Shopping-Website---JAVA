@@ -1,1 +1,1 @@
-# Online-Shopping-Website---JAVA
+This is web application project with JAVA backend. 
